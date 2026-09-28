@@ -1,21 +1,14 @@
-# 🛡️ ASCENDA IT — Hacking Éthique, Pentesting & Hardening OS (Palier 6 à 8)
+# 🛡️ ASCENDA IT — Security Engineering & System Hardening
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security%2B-red?style=flat&logo=kalilinux)
-![Pentesting](https://img.shields.io/badge/Pentest-OSCP%20Prep-black?style=flat&logo=offsec)
+![Cybersecurity](https://img.shields.io/badge/Security-Engineering-red?style=flat&logo=kalilinux)
 ![EDR](https://img.shields.io/badge/Hardening-CIS%20Benchmarks-green)
 
-Bienvenue dans mon laboratoire de **Cybersécurité Offensive & Défensive (Palier 6 à 8)**.
+Ce dépôt rassemble les **méthodologies d'ingénierie de sécurité, les audits d'intrusion et les configurations de durcissement système (Hardening)** d'ASCENDA IT.
 
 ---
 
-## 🗂️ Structure Prévue
+## 🗂️ Modules & Architecture
 
-- `00-pentest-web-and-network/` : Tests d'intrusion OWASP Top 10, exploitation Active Directory.
-- `01-system-hardening/` : Hardening OS (CIS Benchmarks), règles EDR/XDR, accès PAM/IAM.
-- `02-writeups-and-labs/` : Rapports d'analyse et résolutions de machines TryHackMe / HackTheBox.
-
----
-
-## 🎯 Certifications & Compétences Visées
-- **OSCP (Offensive Security Certified Professional)**
-- **CompTIA Security+ / CKS (Certified K8s Security)**
+- `00-pentest-web-and-network/` : Audit de sécurité des applications web (OWASP Top 10) et infrastructures.
+- `01-system-hardening/` : Hardening OS (CIS Benchmarks), règles EDR/XDR & gestion PAM/IAM.
+- `02-security-audits/` : Rapports d'analyse de vulnérabilités et correctifs d'infrastructure.
